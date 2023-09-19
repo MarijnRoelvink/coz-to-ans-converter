@@ -1,0 +1,19 @@
+<part>
+  <mode>Non Permuting Multiple Choice</mode>
+  <name><![CDATA[  responseNaN  ]]></name>
+  <editing>useHTML</editing>
+  <numberOfAttempts>1</numberOfAttempts>
+  <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+  <numberOfTryAnother>0</numberOfTryAnother>
+  <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+  <allowRepublish>false</allowRepublish>
+  <attributeAuthor>false</attributeAuthor>
+  <difficulty>0.0</difficulty>
+  <text><![CDATA[    ]]></text>
+  <answer><![CDATA[  $antwoord  ]]></answer>
+  <display>vertical</display>
+  <fixed><![CDATA[    ]]></fixed>
+  <choices>
+  </choices>
+  <width>0.0</width>
+</part>

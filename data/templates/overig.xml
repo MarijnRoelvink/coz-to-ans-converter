@@ -1,0 +1,272 @@
+<question uid="1ec5c03a-e86c-464b-9b0a-3b11d3ae723a" modifiedBy="eb3293e3-2559-459a-b125-6c8d7f55fbb2" school="ec33efcc-4b0f-450f-8f69-ccfc08c1c68f">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  SNED_012b  ]]></name>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $a=range(3,60,3);
+$b=range(4,60,4);
+$antwoord=if(gt($a,$b),4,if(lt($a,$b),1,2));  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>17.2</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p><img alt="" src="web_folders/Vraag%201(1).gif" style="float: right; width: 400px; height: 400px;">Een ligger wordt belast met een verticale belasting aq, en een horizontale belasting bq, zoals in de figuur is weergegeven.</p>
+
+<p>TIP: Ontbind de belasting in een component loodrecht op de ligger, en een component evenwijdig aan de ligger.</p>
+
+<p>Gegeven is de dwarskrachtenlijn van balk AB met:</p>
+
+<ul>
+	<li>a = $a</li>
+	<li>b = $b</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Welke N-lijn is juist (A,B,C of D)?</p>
+
+<1>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  $antwoord  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p>A</p>  ]]></choice>
+            <choice><![CDATA[  <p>B</p>  ]]></choice>
+            <choice><![CDATA[  <p>C</p>  ]]></choice>
+            <choice><![CDATA[  <p>D</p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+      </parts>
+    </question>
+
+<question uid="e5ffa601-baad-4108-801d-2a0b03c7f9a2" modifiedBy="eb3293e3-2559-459a-b125-6c8d7f55fbb2" school="ec33efcc-4b0f-450f-8f69-ccfc08c1c68f">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  SNED_018a  ]]></name>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $a=range(8,20,2);
+$b=range(2,8,2);
+$c=range(2,20,2);
+$antwoord1 = $c/2;
+$antwoord2 = abs((2*$c+($a-$b)/2)/2);
+$antwoord3 = abs(($a-$b)/4);  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>17.2</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p><img alt="" src="web_folders/vraag%207.gif" style="float: right; width: 400px; height: 400px;">Gegeven is de M-lijn voor een uit een balk gesneden deel AB, met de raaklijnen in A en B met:</p>
+
+<ul>
+	<li>a = $a&nbsp;kNm</li>
+	<li>b = $b&nbsp;kNm</li>
+	<li>c = $c&nbsp;kNm</li>
+</ul>
+
+<p>Bepaal de grootte van de gelijkmatig verdeelde belasting q (in kN/m).</p>
+
+<p><1><span>&nbsp;</span></p>
+
+<p><span>De dwarskracht in B (de absolute waarde in kN).&nbsp;</span></p>
+
+<p><span><2><span>&nbsp;</span></span></p>
+
+<p><span><span>De dwarskracht in het midden van AB (de absolute waarde in kN).&nbsp;</span></span></p>
+
+<p><span><span><3><span>&nbsp;</span></span></span></p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antwoord1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.5</perc>
+          <showUnits>false</showUnits>
+          <negStyle>both</negStyle>
+          <numStyle>thousands scientific</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antwoord2  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.5</perc>
+          <showUnits>false</showUnits>
+          <negStyle>both</negStyle>
+          <numStyle>thousands scientific</numStyle>
+        </part>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antwoord3  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.5</perc>
+          <showUnits>false</showUnits>
+          <negStyle>both</negStyle>
+          <numStyle>thousands scientific</numStyle>
+        </part>
+      </parts>
+    </question>
+
+<question uid="cc0d2e43-9fff-49e7-82e1-22d20a8fb881" modifiedBy="eb3293e3-2559-459a-b125-6c8d7f55fbb2" school="ec33efcc-4b0f-450f-8f69-ccfc08c1c68f">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  SNED_014a  ]]></name>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $a=range(1,4,1);
+$b=range(60,90,6);
+$c=range(24,90,6);
+$antwoord = -($b-$c)/$a;
+$absantwoord = abs($antwoord);
+$tekenantwoord=if(gt($antwoord,0),2,1);  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>17.2</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p><img alt="" src="web_folders/vraag%203.gif" style="float: right; width: 400px; height: 400px;">Gegeven de constructie en momentenlijn met:</p>
+
+<ul>
+	<li>a = $a m</li>
+	<li>b = $b kNm</li>
+	<li>c = $c kNm</li>
+</ul>
+
+<p>Bepaal de absolutegrootte van de dwarskracht in doorsnede C (in kN)</p>
+
+<p><1><span>&nbsp;</span></p>
+
+<p>en het bijbehorende vervormingsteken:</p>
+
+<2>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1,1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+        <part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $absantwoord  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.5</perc>
+          <showUnits>false</showUnits>
+          <negStyle>both</negStyle>
+          <numStyle>thousands scientific</numStyle>
+        </part>
+
+        <part>
+          <mode>Non Permuting Multiple Choice</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer><![CDATA[  $tekenantwoord  ]]></answer>
+          <display>vertical</display>
+          <fixed><![CDATA[    ]]></fixed>
+          <choices>
+            <choice><![CDATA[  <p><img alt="" src="web_folders/Dwarskrachtneg.png" style="width: 21px; height: 15px;" /></p>  ]]></choice>
+            <choice><![CDATA[  <p><img alt="" src="web_folders/Dwarskrachtpos.png" style="width: 21px; height: 15px;" /></p>  ]]></choice>
+          </choices>
+          <width>0.0</width>
+        </part>
+      </parts>
+    </question>

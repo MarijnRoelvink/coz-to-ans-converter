@@ -1,0 +1,22 @@
+<part>
+          <mode>Numeric</mode>
+          <name><![CDATA[  responseNaN  ]]></name>
+          <editing>useHTML</editing>
+          <numberOfAttempts>1</numberOfAttempts>
+          <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+          <numberOfTryAnother>0</numberOfTryAnother>
+          <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+          <allowRepublish>false</allowRepublish>
+          <attributeAuthor>false</attributeAuthor>
+          <difficulty>0.0</difficulty>
+          <text><![CDATA[    ]]></text>
+          <answer>
+            <num><![CDATA[  $antwoord1  ]]></num>
+          </answer>
+          <width>0.0</width>
+          <grading>toler_perc</grading>
+          <perc>2.5</perc>
+          <showUnits>false</showUnits>
+          <negStyle>both</negStyle>
+          <numStyle>thousands scientific</numStyle>
+</part>

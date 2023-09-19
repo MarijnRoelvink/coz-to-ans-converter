@@ -1,0 +1,44 @@
+<question uid="1ec5c03a-e86c-464b-9b0a-3b11d3ae723a">
+      <mode>Inline</mode>
+      <chainId><![CDATA[  0  ]]></chainId>
+      <name><![CDATA[  Main question  ]]></name>
+      <editing>useHTML</editing>
+      <algorithm><![CDATA[  $a=range(3,60,3);
+$b=range(4,60,4);
+$antwoord=if(gt($a,$b),4,if(lt($a,$b),1,2));  ]]></algorithm>
+      <numberOfAttempts>1</numberOfAttempts>
+      <numberOfAttemptsLeft>1</numberOfAttemptsLeft>
+      <numberOfTryAnother>0</numberOfTryAnother>
+      <numberOfTryAnotherLeft>0</numberOfTryAnotherLeft>
+      <privacy>10</privacy>
+      <allowRepublish>false</allowRepublish>
+      <attributeAuthor>true</attributeAuthor>
+      <modifiedIn>17.2</modifiedIn>
+      <difficulty>0.0</difficulty>
+      <text><![CDATA[  <p><img alt="" src="web_folders/Vraag%201(1).gif" style="float: right; width: 400px; height: 400px;">Een ligger wordt belast met een verticale belasting aq, en een horizontale belasting bq, zoals in de figuur is weergegeven.</p>
+
+<p>TIP: Ontbind de belasting in een component loodrecht op de ligger, en een component evenwijdig aan de ligger.</p>
+
+<p>Gegeven is de dwarskrachtenlijn van balk AB met:</p>
+
+<ul>
+	<li>a = $a</li>
+	<li>b = $b</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Welke N-lijn is juist (A,B,C of D)?</p>
+
+<1>
+
+<p>&nbsp;</p>  ]]></text>
+      <width>0.0</width>
+      <weighting>1</weighting>
+      <numbering>alpha</numbering>
+
+      <parts>
+
+      </parts>
+    </question>
+
