@@ -1,4 +1,4 @@
-# The COZ to ANS tool
+# The COZ to ANS converter
 
 This is a program that helps you transferring question databases made in the COZ media editor to the [ANS assessment platform](https://ans.app/landing).
 
@@ -57,6 +57,7 @@ This project uses several python libraries. Below we have provided the instructi
 
 Do you have a question? Feel free to send an email to Marijn Roelvink ([marijn.roelvink@hotmail.com](mailto:marijn.roelvink@hotmail.com)).
 
+Thanks to Tom van Woudenberg for testing and support!
 
 ## License
 
